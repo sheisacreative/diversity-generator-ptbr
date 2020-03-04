@@ -3,12 +3,14 @@
 
 ## Como usar este script:
 
-1. Assista esse vídeo sobre como rodar scripts no Photoshop: https://www.youtube.com/watch?v=A48El_NtGBc
+1. Assista esse vídeo que ensina com detalhes: https://www.youtube.com/watch?v=LvFTtOHxNYc
 
 -- OU --
 
 1. Baixe o arquivo ZIP.
-2. Extraia o arquivo ZIP na pasta: C: Arquivos de Programas > Adobe > Adobe Photoshop 2020 > Presets > Scripts (pode deletar o arquivo "leia-me.md" se quiser :P).
+2. Extraia o arquivo.
+3. Copie o script (.jsx) e a parta "Diversity Generator"
+2. Cole os arquivos em C: Arquivos de Programas > Adobe > Adobe Photoshop 2020 > Presets > Scripts.
 3. Abra o Photoshop.
 4. Vá em File > Scripts (Arquivo > Scripts) e selecione seu script na lista. Caso o script não esteja aparecendo selecione "Browse" ou "Procurar" e encontre a pasta em que o script está (arquivo com extensão .jsx);
 5. Após isso o script já irá rodar. Divirta-se! :)
